@@ -205,7 +205,7 @@ a {
     align-items: center;
     z-index: 2;
     grid-template-rows: 40% 60%;
-    grid-template-columns: 30% 40% 30%;
+    grid-template-columns: 5% 90% 5%;
 }
 
 .heroimg0 {
@@ -215,7 +215,8 @@ a {
 }
 
 .soda{
-    width: 33vw;
+    width: 36vw;
+    opacity: 70%;
 }
 
 .heroimg1 {
@@ -253,7 +254,7 @@ a {
     text-align: center;
     font-family: jost;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     letter-spacing: 1px;
     margin: 18px 5px;
 }
@@ -289,8 +290,7 @@ a {
     height: 100vh;
     width: 100%;
     grid-template-columns: 40% 60%;
-    /*background-image: linear-gradient(to bottom right, rgb(221, 255, 129) , rgb(158, 252, 208) , rgb(133, 255, 141));*/
-    background-color: #c0ff72;
+    background-image: linear-gradient(to bottom right, rgb(221, 255, 129) , rgb(158, 252, 208) , rgb(133, 255, 141));
     z-index: 0;
 }
 
